@@ -11,7 +11,7 @@
 🌙 I See Dreams — Academic frontend project  <br>🔗 https://github.com/alexeychern0v/i-see-dreams  <br><br>🧩 Full-Stack Task Manager — Work in progress  <br><br>
 
 # 🌍 Languages
-🇫🇷 French — very good  <br>🇬🇧 English — professional  <br>🇷🇺 Russian — native  <br>
+🇫🇷 French — very good  <br>🇬🇧 English — very good  <br>🇷🇺 Russian — native  <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexey-chern0v) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alexey.chernov.exe@gmail.com) 
